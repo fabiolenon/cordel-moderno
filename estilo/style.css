@@ -25,7 +25,7 @@ header {
     padding-bottom: 50px;
 }
 
-heder a, footer a {
+header a, footer a {
     color: white;
     text-decoration: none;
     font-weight: bolder;
